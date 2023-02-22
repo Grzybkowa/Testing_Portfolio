@@ -26,6 +26,7 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 * HTML/CSS
 * Java Script
 * Markdown
+* Google Sheets / Docs / Slides
 * SharePoint
 * Trello
 * Slack
