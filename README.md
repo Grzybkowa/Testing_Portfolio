@@ -37,6 +37,7 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 
 # <span style="color:darkorange">Blogs I read</span>
 * [testerzy.pl](https://testerzy.pl/baza-wiedzy)
+* [testuj.pl](https://testuj.pl/blog/)
 
 # <span style="color:darkorange">My projects</span>
 
@@ -51,6 +52,8 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 [Link to Bug 3](https://wannai.atlassian.net/browse/DIT-23?atlOrigin=eyJpIjoiODBhZDAyZDMxZmJjNGIzOWE5MTRjYWZkNGJmMjBlNzQiLCJwIjoiaiJ9)
 
 * Bug on [olx.pl](https://docs.google.com/spreadsheets/d/195b36YxEdsoTa8BOzjNPJuLqZ7-TOKlbPq5Bf1RSGoQ/edit?usp=sharing)
+
+* Bug on [psiesucharki.selino.pl](https://docs.google.com/spreadsheets/d/1mJmSmPJ0qdOMA0NzC6xfztM-qI6d7u6EZJUNMCACKTM/edit?usp=sharing)
 
 * Bugs found on the [Scout Panel website](https://docs.google.com/spreadsheets/d/1m143gmU9jazLNHWggzEmDCwIIbsGCG0KRLmXKdVSU30/edit?usp=share_link) - one of the task from DareIT 'Manula tester challange'; 
 
