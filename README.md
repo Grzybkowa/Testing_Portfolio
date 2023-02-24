@@ -2,6 +2,8 @@
 
 # <span style="color:darkorange">About me</span>
 
+<img src="Dorota.png" width=250 height =300> 
+
 My name is Dorota Grzybek and I welcome you to my Testing_portfolio page. I have been involved in the field of quality control for several years. I have been testing what is visible and tangible - products from the production line, and now I would like to take the next step and start testing software. 
 That's why I've started my studies in this direction, and I'm eager to share with you what I've achieved so far. 
 
