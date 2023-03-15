@@ -47,9 +47,9 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 
 * Bugs on swipeto.pl - reported in Jira; group project;
 
-[Link to Bug 1](https://wannai.atlassian.net/browse/DIT-21?atlOrigin=eyJpIjoiNjM2OTc4ZTI1OWM0NDQ0ODg2Y2YzMGNhM2RhYjAzZjMiLCJwIjoiaiJ9)
+[Link to Bug 1](https://drive.google.com/drive/folders/11M6ev0T538cOTSWPF2vuvg6ZsTTAijMi?usp=sharing)
 
-[Link to Bug 2](https://wannai.atlassian.net/browse/DIT-22?atlOrigin=eyJpIjoiZWNiMWZjNzI0YjhkNDU2MGIyYmUwNTU1NmU5NzE5ZTgiLCJwIjoiaiJ9)
+[Link to Bug 2](https://drive.google.com/drive/folders/1_wAp95X4BqREe9ZNL7z0oxqF91v6AhHY?usp=sharing)
 
 [Link to Bug 3](https://wannai.atlassian.net/browse/DIT-23?atlOrigin=eyJpIjoiODBhZDAyZDMxZmJjNGIzOWE5MTRjYWZkNGJmMjBlNzQiLCJwIjoiaiJ9)
 
