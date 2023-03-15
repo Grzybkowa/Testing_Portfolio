@@ -51,7 +51,7 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 
 [Link to Bug 2](https://drive.google.com/drive/folders/1_wAp95X4BqREe9ZNL7z0oxqF91v6AhHY?usp=sharing)
 
-[Link to Bug 3](https://drive.google.com/drive/folders/1uglBxQkN-Wmsxp6sOXelKNRDB5kIW6sh?usp=sharing)
+[Link to Bug 3](https://docs.google.com/document/d/1p2HIhDnGUiofSmNbPDiHv8LRF9jbAapjB4s6x-66pBY/edit?usp=sharing)
 
 * Bug on [olx.pl](https://docs.google.com/spreadsheets/d/195b36YxEdsoTa8BOzjNPJuLqZ7-TOKlbPq5Bf1RSGoQ/edit?usp=sharing)
 
