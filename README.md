@@ -9,7 +9,7 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 
 # <span style="color:darkorange">Courses</span>
 
-* Zostań Testerem Manualnym || **DareIT**
+* [Zostań Testerem Manualnym](https://drive.google.com/file/d/1LxUxv_J4RJC6XW0napS_zxiWjWMljU-s/view?usp=sharing) || **DareIT**
 * Full stack-programista od zera || **GoIT**
 * Software Testing - Future Testers || **CODERS GUILD**
 * The Complete 2023 Software Testing Bootcamp - T. Roshdy || **Udemy** (IN PROGRESS)
