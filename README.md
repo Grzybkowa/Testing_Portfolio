@@ -33,6 +33,12 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 * Trello
 * Slack
 
+# <span style="color:darkorange">My soft skills</span>
+* Good eye for details 
+* People person
+* Comunication
+* Teamwork
+
 # <span style="color:darkorange">Books</span>
 
 * **Zawód Tester** - Radosław Smilgin
