@@ -63,6 +63,8 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 
 * Bug on [psiesucharki.selino.pl](https://docs.google.com/spreadsheets/d/1mJmSmPJ0qdOMA0NzC6xfztM-qI6d7u6EZJUNMCACKTM/edit?usp=sharing)
 
+* Bug on [rosti-poland](https://docs.google.com/spreadsheets/d/1ykntghxWmmT5EaJO3FXzQAOhSqgVfruJCWup_1gO1KU/edit?usp=sharing)
+
 * Bugs found on the [Scout Panel website](https://docs.google.com/spreadsheets/d/1m143gmU9jazLNHWggzEmDCwIIbsGCG0KRLmXKdVSU30/edit?usp=share_link) - one of the task from DareIT 'Manula tester challange'; 
 
 
