@@ -23,15 +23,16 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 * BugMagnet
 * Wave
 * Exploratory Testing Chrome Extension
-* MySQL
+* mySQL
 * Jira
 * HTML/CSS
 * Java Script
 * Markdown
 * Google Sheets / Docs / Slides
 * SharePoint
-* Trello
+* Trello 
 * Slack
+
 
 # <span style="color:darkorange">My soft skills</span>
 * Good eye for details 
@@ -46,12 +47,12 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 # <span style="color:darkorange">Blogs I read</span>
 * [testerzy.pl](https://testerzy.pl/baza-wiedzy)
 * [testuj.pl](https://testuj.pl/blog/)
-
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 # <span style="color:darkorange">My projects</span>
 
-**Bugs**
+**Bug reports**
 
-* Bugs on swipeto.pl - reported in Jira; group project;
+* Bugs on swipeto.pl - reported in Jira; group project (one of the task from DareIT 'Manula tester challange);
 
 [Link to Bug 1](https://drive.google.com/drive/folders/11M6ev0T538cOTSWPF2vuvg6ZsTTAijMi?usp=sharing)
 
@@ -79,12 +80,14 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 
 1) I am taking a full stack course taught by GoIT. One of the summary assignments in the HTML/CSS section was to create a responsive website. The site was created based on the graphic design in Figma and the guidelines I received from the mentor. [WebStudio website](https://grzybkowa.github.io/goit-markup-hw-08-full-project-with-portfolio-page)
 
-2) The HTML/CSS module ended with a group project to create a responsive website for an ice cream shop. Thanks to this project, I understood how GitHub works, learned how to work on branches and resolve conflicts. 
+2) The HTML/CSS module ended with a group project to create a responsive website for an ice cream shop( [IceCream Shop website](https://barteknr1.github.io/Projekt-grupowy/) ). Thanks to this project, I understood how GitHub works, learned how to work on branches and resolve conflicts. 
 My tasks in the project: 
 - creating the "Products" section (responsive);
 - creating a reusable modal window;
 - creating a grid and applying it to the other sections;
-- checking that all images/graphics have been added in a resolution suitable for Retina; [IceCream Shop website](https://barteknr1.github.io/Projekt-grupowy/)
+- checking that all images/graphics have been added in a resolution suitable for Retina; 
+
+
 
 **SQL**
 
