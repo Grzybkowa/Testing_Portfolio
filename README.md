@@ -18,6 +18,7 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 
 # <span style="color:darkorange">Webinars</span>
 
+* ChatGPT dla testerów oprogramowania.Nowa odsłona pracy testera oprogramowania. || **Tomasz Stelmach, QualityIsland**
 
 # <span style="color:darkorange">Tools</span>
 
