@@ -11,23 +11,27 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 
 * [Zostań Testerem Manualnym](https://drive.google.com/file/d/1LxUxv_J4RJC6XW0napS_zxiWjWMljU-s/view?usp=sharing) || **DareIT**
 * Full stack-programista od zera || **GoIT** (PASSED HTML/CSS MODULE)
+* Warsztaty [girls.js Kraków ](https://drive.google.com/file/d/1oV7U8rW_dS_-j4CAtrzaYuaeJ35II8qH/view?usp=sharing)|| **Girls.js** || **BRAINLY** || **codewise**
 * Software Testing - Future Testers || **CODERS GUILD**
 * The Complete 2023 Software Testing Bootcamp - T. Roshdy || **Udemy** (IN PROGRESS)
 * System zarządzania jakością wg ISO 9001:2015 || **"MANTA" SYSTEMY ZARZĄDZANIA**
+
+# <span style="color:darkorange">Webinars</span>
+
 
 # <span style="color:darkorange">Tools</span>
 
 * Git, GitHub
 * Chrome DevTools
 * Lighthouse
-* BugMagnet
 * Wave
 * Exploratory Testing Chrome Extension
-* mySQL
+* SQL (basic)
 * Jira
 * HTML/CSS
-* Java Script
+* Java Script (basic)
 * Markdown
+* Figma
 * Google Sheets / Docs / Slides
 * SharePoint
 * Trello 
@@ -48,6 +52,8 @@ That's why I've started my studies in this direction, and I'm eager to share wit
 * [testerzy.pl](https://testerzy.pl/baza-wiedzy)
 * [testuj.pl](https://testuj.pl/blog/)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+
+
 # <span style="color:darkorange">My projects</span>
 
 **Bug reports**
